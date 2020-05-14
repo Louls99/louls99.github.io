@@ -1,19 +1,19 @@
 .header {
 
-    width: 100%;
+    width: 100vh;
     background: rgb(62,57,107);
     height: 500px;
     
 }
 .prestation .header {
 
-    width: 100%;
+    width: 100vh;
     background: rgb(62,57,107);
     height: 220px;
     
 }
 .contact .header{
-    width: 100%;
+    width: 100vh;
     background: rgb(62,57,107);
     height: 100vh;
 	background-position:center;
@@ -30,8 +30,8 @@
 
 .header_texture{
  
-    width: 100%;
-    height: 100%;
+    width: 100vh;
+    height: 100vh;
     position:flex;
     top: 0;left: 0;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../head.jpg);
