@@ -1,0 +1,105 @@
+.reste{
+ 
+    width: 100%;
+    position: absolute;
+    background-color: #f5f6fa;
+    height: 100%;
+}
+.qui{
+    font-style: bold;
+}
+
+.fls {
+    font-style:italic;
+}
+.diplome{
+    height:17em;
+}
+
+.acceuil{
+    text-align: center;
+     width: 100%;
+    height: 100px;
+    padding: 0px;
+
+    
+}
+.diplome_texte{
+    background-color: white;
+    z-index: 99;
+    height: auto;
+    
+}
+.acceuil-infos{
+    height: 100%
+}
+
+.diplome_texte p{
+    text-align: right;
+}
+
+
+.reste h2{
+    font-family: 'Roboto';
+}
+
+.penser{
+    font-family: sans-serif;
+    font-style: italic;
+    font-size:25px;
+    color:#d63031;
+}
+
+.chemin{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.fin {
+
+    width: 100%;
+   
+    height: 100px;
+    bottom: 0;
+    
+}
+
+footer{
+   background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../images/head.jpg);
+   background-position:center;
+    padding: 0;
+    margin: 0;
+    position:flex;
+
+	background-size: cover;
+	background-attachment: fixed;
+    z-index:1;
+    margin-bottom: 0;
+    margin-top: 0;
+    z-index: 1;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color:white;
+    padding: 30px;
+
+ 
+}
+
+.footer-copyright text-center py-5{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    
+}
+.foot{
+    text-align: center
+}
+.contact {
+   border-left: 50px;
+    color:white;
+}
+
+.contact:hover{
+    color:	#e17055;
+    text-decoration: none;
+}
